@@ -4,4 +4,4 @@
 |---------------------|--------------------|------------|
 | TITANIC SURVIVAL   | XGBClassifier | Accuracy : 80.4%      |
 | MOVIE RATING PREDICTION     |  Random Forest Regressor   |   MSE : 1.28 |
-| IRIS FLOWER | - | -    |
+| IRIS FLOWER | Logistic Regression | Accuracy : 93.33%    |
